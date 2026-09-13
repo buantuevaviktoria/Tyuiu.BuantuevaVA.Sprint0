@@ -1,0 +1,14 @@
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/bin/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/bin/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.deps.json
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/bin/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.runtimeconfig.json
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/bin/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.dll
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/bin/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.pdb
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.AssemblyInfoInputs.cache
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.AssemblyInfo.cs
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.csproj.CoreCompileInputs.cache
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.dll
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/refint/Tyuiu.BuantuevaVA.Sprint0.dll
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.pdb
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.genruntimeconfig.cache
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/ref/Tyuiu.BuantuevaVA.Sprint0.dll
