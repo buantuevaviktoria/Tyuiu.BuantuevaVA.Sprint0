@@ -12,3 +12,4 @@
 /Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.pdb
 /Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.genruntimeconfig.cache
 /Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/ref/Tyuiu.BuantuevaVA.Sprint0.dll
+/Users/cramly/RiderProjects/Tyuiu.BuantuevaVA.Sprint0/Tyuiu.BuantuevaVA.Sprint0/obj/Debug/net8.0/Tyuiu.BuantuevaVA.Sprint0.sourcelink.json
